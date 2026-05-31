@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/MinecraftPanda.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/MinecraftPanda.png" width="100%" />
 </p>
 
 
