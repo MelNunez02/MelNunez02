@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=About%20Me%20s&fontSize=30&fontColor=FFB6C1&color=00000000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=About%20Me%20&fontSize=30&fontColor=FFB6C1&color=00000000" />
 </p>
 
 🤖 Enterprise Generative AI Systems
