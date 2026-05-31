@@ -12,7 +12,7 @@
 
 ---
 
-## ╭── ⋅ ⋅ ── 🌙 About Me ── ⋅ ⋅ ──╮
+## 🌙 About Me 
 
 🧸 Software Engineer at Target
 
