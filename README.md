@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <b>✨ Currently Working On ✨</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Currently%20Working%20On&fontSize=30&fontColor=FFB6C1&color=00000000" />
 </p>
 
 🧸 Software Engineer at Target
@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/AboutMe.png" width="400" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=About%20Me%20s&fontSize=30&fontColor=FFB6C1&color=00000000" />
 </p>
 
 🤖 Enterprise Generative AI Systems
@@ -64,7 +64,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/FeaturedProject.png" width="450" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Feature%20Project%20&fontSize=30&fontColor=FFB6C1&color=00000000" />
 </p>
 
 
@@ -78,8 +78,9 @@ https://github.com/MelNunez02/melanieplanet
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/ConnectWithMe.png" width="450" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Connect%20With%20Me&fontSize=30&fontColor=FFB6C1&color=00000000" />
 </p>
+
 
 💼 LinkedIn:  
 www.linkedin.com/in/melaniejnunez
