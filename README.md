@@ -5,11 +5,6 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Melanie%20Nunez&fontSize=65&fontColor=ffffff&animation=twinkling" />
-</p>
-
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=800&lines=Software+Engineer;Generative+AI+Explorer;Android+Developer;Builder+of+Tiny+Worlds" />
 </p>
     
