@@ -1,15 +1,14 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/MinecraftPanda.png" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=900&lines=Software+Engineer+at+Target;Generative+AI+Developer;Android+Developer+(Kotlin);FIXI+Mobile+App+Contributor;Builder+of+Tiny+Worlds+🌸" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=800&lines=Software+Engineer;Generative+AI+Explorer;Android+Developer;Builder+of+Tiny+Worlds" />
+  💖 Building enterprise AI tools, Android applications, APIs, and interactive experiences
 </p>
-    
-Building enterprise tools, AI workflows, mobile applications, and tiny worlds made of code.
-
 
 ---
 
@@ -17,11 +16,31 @@ Building enterprise tools, AI workflows, mobile applications, and tiny worlds ma
 
 🧸 Software Engineer at Target
 
-🤖 Working on Generative AI systems
+🤖 Developing Generative AI solutions, Legal Holds tooling, and enterprise productivity workflows
 
-📱 Android Developer (Kotlin + Jetpack Compose)
+📱 Android Developer with Kotlin, Jetpack Compose, Firebase, and mobile application development experience
 
-☁️ Infrastructure & Enterprise Applications
+🚗 Contributor to the FIXI roadside assistance mobile application
+
+☁️ Experience building APIs, automation workflows, cloud infrastructure, routing logic, and enterprise systems
+
+🎓 B.S. Computer Science — Texas A&M University–San Antonio
+
+🌸 Passionate about creating software that combines usability, scalability, and creativity
+
+---
+
+## ✨ Currently Working On
+
+🤖 Enterprise Generative AI Systems
+
+📱 Android Development
+
+🌎 Interactive Portfolio Experiences
+
+☁️ Enterprise APIs & Infrastructure
+
+⚖️ Exploring AI Governance & Intellectual Property
 
 ---
 
@@ -38,21 +57,39 @@ Building enterprise tools, AI workflows, mobile applications, and tiny worlds ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
 </p>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MelNunez02&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🪐 Featured Project
 
 ### Melanie Portfolio
 
-A LittleBigPlanet-inspired interactive portfolio showcasing software engineering, AI systems, Android development, and enterprise projects.
+A LittleBigPlanet-inspired interactive portfolio showcasing software engineering, Generative AI systems, Android development, enterprise applications, and creative world-building.
 
-🔗 Portfolio Repository:
+🔗 Portfolio Repository:  
 https://github.com/MelNunez02/melanieplanet
 
 ---
 
 ## 💌 Connect With Me
 
-- 💼 LinkedIn
-- 📧 melaniejnunez@gmail.com
-- 🌎 Portfolio
+💼 LinkedIn:  
+www.linkedin.com/in/melaniejnunez
+
+📧 Email:  
+melaniejnunez@gmail.com
+
+🌎 Portfolio:  
+Coming Soon
+
+🐙 GitHub:  
+github.com/MelNunez02
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my little corner of the universe ✨
+</p>
