@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/AboutMe.png" width="700" />
+  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/CurrentlyWorkingOn.png" width="700" />
 </p>
 
 🧸 Software Engineer at Target
