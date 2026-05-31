@@ -12,7 +12,9 @@
 
 ---
 
-## 🌙 About Me 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/AboutMe.png" width="700" />
+</p>
 
 🧸 Software Engineer at Target
 
@@ -30,7 +32,9 @@
 
 ---
 
-## ✨ Currently Working On
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/CurrentlyWorkingOn.png" width="700" />
+</p>
 
 🤖 Enterprise Generative AI Systems
 
@@ -63,7 +67,9 @@
 
 ---
 
-## 🪐 Featured Project
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/FeaturedProject.png" width="700" />
+</p>
 
 ### Melanie Portfolio
 
@@ -74,7 +80,9 @@ https://github.com/MelNunez02/melanieplanet
 
 ---
 
-## 💌 Connect With Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/ConnectWithMe.png" width="700" />
+</p>
 
 💼 LinkedIn:  
 www.linkedin.com/in/melaniejnunez
@@ -88,5 +96,5 @@ github.com/MelNunez02
 ---
 
 <p align="center">
-  ✨ Thanks for visiting my little corner of the universe ✨
+✨ Thanks for visiting my little corner of the universe ✨
 </p>
