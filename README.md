@@ -61,9 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/CurrentlyWorkingOn.png" width="450" />
-</p>
 ---
 
 <p align="center">
