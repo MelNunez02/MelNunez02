@@ -68,7 +68,7 @@
 </p>
 
 
-### Melanie Portfolio
+### Melanie Nunez Portfolio
 
 A LittleBigPlanet-inspired interactive portfolio showcasing software engineering, Generative AI systems, Android development, enterprise applications, and creative world-building.
 
