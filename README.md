@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/CurrentlyWorkingOn.png" width="700" />
+  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/AboutMe.png" width="400" />
 </p>
 
 🤖 Enterprise Generative AI Systems
@@ -62,14 +62,14 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MelNunez02&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/CurrentlyWorkingOn.png" width="450" />
 </p>
-
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/FeaturedProject.png" width="700" />
+  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/FeaturedProject.png" width="450" />
 </p>
+
 
 ### Melanie Portfolio
 
@@ -81,7 +81,7 @@ https://github.com/MelNunez02/melanieplanet
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/ConnectWithMe.png" width="700" />
+  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/ConnectWithMe.png" width="450" />
 </p>
 
 💼 LinkedIn:  
