@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/CurrentlyWorkingOn.png" width="700" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=900&lines=aboutme" />
 </p>
 
 🧸 Software Engineer at Target
