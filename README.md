@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=Hey%20Everyone%21&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=Melanie Nunez%21&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
-# ✨ Melanie Nunez
 
 ### 🌎 Software Engineer • AI Systems • Android Development
 
