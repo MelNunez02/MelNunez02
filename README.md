@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Melanie%20Nunez&fontSize=65&fontColor=ffffff&animation=twinkling" />
+  <img src="https://raw.githubusercontent.com/MelNunez02/MelNunez02/main/assets/MinecraftPanda.gif" width="100%" />
 </p>
 
 <p align="center">
