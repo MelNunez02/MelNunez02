@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=MelanieNunez&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api
+    type=waving&height=220&color=0:FFC0CB,50:E9D5FF,100:B8E3FF&text=Melanie%20Nunez&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </p>
 
 
