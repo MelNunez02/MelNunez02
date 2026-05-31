@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFB6C1,50:D8B4FE,100:93C5FD&text=Melanie%20Nunez%20🌸&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFC0CB,50:E9D5FF,100:B8E3FF&text=Melanie%20Nunez&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=800&lines=Software+Engineer+🌸;Generative+AI+Explorer+🤖;Android+Developer+📱;LittleBigPlanet+Builder+🌎" />
+</p>
 
 ### 🌎 Software Engineer • AI Systems • Android Development
 
