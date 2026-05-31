@@ -82,9 +82,6 @@ www.linkedin.com/in/melaniejnunez
 📧 Email:  
 melaniejnunez@gmail.com
 
-🌎 Portfolio:  
-Coming Soon
-
 🐙 GitHub:  
 github.com/MelNunez02
 
