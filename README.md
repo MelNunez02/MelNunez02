@@ -3,12 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=800&lines=Software+Engineer+🌸;Generative+AI+Explorer+🤖;Android+Developer+📱; />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=800&lines=Software+Engineer;Generative+AI+Explorer;Android+Developer;Builder+of+Tiny+Worlds" />
 </p>
+    
+Building enterprise tools, AI workflows, mobile applications, and tiny worlds made of code.
 
 
 ---
-## Building enterprise tools, AI workflows, mobile applications, and tiny worlds made of code.
 
 ## 🌙 About Me
 
