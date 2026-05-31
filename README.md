@@ -12,7 +12,9 @@
 
 ---
 
-## 🌙 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=About%20Me&fontSize=35&fontColor=ffffff" />
+</p>
 
 🧸 Software Engineer at Target
 
