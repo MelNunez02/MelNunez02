@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Currently%20Working%20On&fontSize=30&fontColor=FFB6C1&color=00000000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&text=Currently%20Working%20On&fontSize=24&fontColor=F8D7E8&color=00000000" />
 </p>
 
 🧸 Software Engineer at Target
@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=About%20Me%20&fontSize=30&fontColor=FFB6C1&color=00000000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&text=About%20Me&fontSize=24&fontColor=F8D7E8&color=00000000" />
 </p>
 
 🤖 Enterprise Generative AI Systems
@@ -64,7 +64,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Feature%20Project%20&fontSize=30&fontColor=FFB6C1&color=00000000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&text=Featured%20Project&fontSize=24&fontColor=F8D7E8&color=00000000" />
 </p>
 
 
@@ -78,7 +78,7 @@ https://github.com/MelNunez02/melanieplanet
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Connect%20With%20Me&fontSize=30&fontColor=FFB6C1&color=00000000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&text=Connect%20With%20Me&fontSize=24&fontColor=F8D7E8&color=00000000" />
 </p>
 
 
